@@ -1,0 +1,1 @@
+GIT. Very accessible presentation of the material. I improved and systematized my knowledge of GIT while learning, and thanks to learngitbranching.js.org I got a good understanding of branching.
